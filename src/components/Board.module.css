@@ -1,0 +1,9 @@
+.board {
+  width: 400px;
+  height: 400px;
+  background: #ddd;
+}
+
+.drop {
+  background: #eec;
+}
