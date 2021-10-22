@@ -1,0 +1,21 @@
+.dragLayer {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.box {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  border: 1px solid #888;
+}
+
+.text {
+  width: 30%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}

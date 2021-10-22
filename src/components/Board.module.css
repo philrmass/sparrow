@@ -1,9 +1,12 @@
 .board {
-  width: 400px;
-  height: 400px;
-  background: #ddd;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #0001;
 }
 
 .drop {
-  background: #eec;
+  background: #8802;
 }

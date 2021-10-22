@@ -1,5 +1,8 @@
 .node {
-  width: 100px;
-  height: 100px;
+  width: 64px;
+  height: 64px;
   background: #dfe;
+  border: 1px solid #888;
+  margin-left: 256px;
+  margin-bottom: 32px;
 }
