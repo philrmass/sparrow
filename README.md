@@ -1,7 +1,5 @@
 # Sparrow
-
-## Author
-Phil Mass
+### by Phil Mass
 
 ## Description
 Experiments with the Web Audio API
