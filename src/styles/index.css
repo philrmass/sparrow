@@ -6,6 +6,7 @@
   --size1: 8px;
   --size2: 16px;
   --background: #f0f8ff;
+  --nodeSize: 64px;
 }
 
 body {

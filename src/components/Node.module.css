@@ -1,7 +1,10 @@
 .node {
-  width: 64px;
-  height: 64px;
-  background: #dfe;
+  position: relative;
+  left: 0;
+  top: 0;
+  width: var(--nodeSize);
+  height: var(--nodeSize);
+  background: #dfe8;
   border: 1px solid #888;
   margin-left: 256px;
   margin-bottom: 32px;

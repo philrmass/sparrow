@@ -10,9 +10,9 @@ import NodeDragLayer from './NodeDragLayer';
 export default function App() {
   return (
     <DndProvider backend={HTML5Backend}>
-      <Node />
-      <div className={styles.viewport}>
+      <div className={styles.all}>
         <NodeDragLayer />
+        <Node />
         <Board />
       </div>
     </DndProvider>
